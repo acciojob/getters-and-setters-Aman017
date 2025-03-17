@@ -16,7 +16,7 @@ class Person {
 			this.age = age;
 			
 		}else{
-			console.log("age is sould be +ve)
+			console.log("age is sould be +ve");
 		}
 	}
 	
